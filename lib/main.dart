@@ -285,7 +285,7 @@ class TactileButton extends StatefulWidget {
 }
 
 class _TactileButtonState extends State<TactileButton> {
-  // Local boolean state tracking whether button is currently being held down
+  // Local boolean state tracking whether this button is currently being held down
   bool isPressed = false;
 
   @override
