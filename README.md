@@ -10,7 +10,7 @@ scanning, pulsing, charging, and ejecting signal data.
 	accent colors, and live status messages.
 - **Physical button feedback**: `GestureDetector` captures press, release, and
 	cancellation stages while opposing `BoxShadow`s create neomorphic depth.
-- **Live signal monitoring**: Tap counts, a power calibration slider, and an
+- **Live signal monitoring**: A power calibration slider controlled by tap control, and an
 	overload background warning update through `setState()`.
 - **Adaptive theme system**: Switch between dark instrumentation mode and a
 	light neomorphic mode from the app bar.
